@@ -19,4 +19,4 @@ Courses I have completed and that are in progress are as follows:-
 
 ### File description
 * Notes_Getting_up_to_speed_in_biology_Part_1: Part 1 noets of Getting up to Speed in Biology
-* ***Note: I will be uploading remainig notes in the coming days***
+* ***Note: I will be uploading remaining notes in the coming days***
